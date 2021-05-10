@@ -16,3 +16,4 @@
 | [CSS Icon Space](https://cssicon.space/#/)                                        |     yes    |
 | [Noun Project](https://thenounproject.com/)                                       |     yes    |
 | [Iconfinder](https://www.iconfinder.com/)                                         |     yes    |
+| [Tabler](https://tabler-icons.io/)                                                |     yes    |
