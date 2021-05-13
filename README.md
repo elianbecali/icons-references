@@ -18,5 +18,6 @@
 | [Iconfinder](https://www.iconfinder.com/)                                         |     yes    |
 | [Tabler](https://tabler-icons.io/)                                                |     yes    |
 | [IconPark](https://github.com/bytedance/IconPark)                                 |     yes    |
+| [Weather Icons](https://github.com/erikflowers/weather-icons)                     |     yes    |
 
 
